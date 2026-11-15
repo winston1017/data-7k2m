@@ -1,0 +1,354 @@
+{
+  "shop": {
+    "heroes": [
+      "/images/uploads/factor-ostro-vam-long-term-review-01.avif"
+    ],
+    "logo": "/images/uploads/bv2.png",
+    "name": "Bike Vault",
+    "area": "Vancouver, BC",
+    "phone": "NA",
+    "tagline": "Premium road and gravel bikes. Inspected, serviced and ready to ride.",
+    "hours": "Meetings by appointment. Message us for available times.",
+    "address": "Safe public meeting spots around Vancouver, BC, agreed when you book.",
+    "formEndpoint": "",
+    "email": "NA"
+  },
+  "txt": {
+    "t_l": "Send photos through the form for an approximate offer.\nWe meet at a public place by appointment to inspect your bike in person.\nWe confirm the offer on the spot. Put the value toward any bike here, or take it as payment. No obligation.\nWe cross check each bike’s serial number against stolen-bike databases before buying.",
+    "si_l": "Fill in the trade-in form with your photos and tell us you will ship it.\nWe send you an approximate offer by email and text.\nIf you want to go ahead, box the bike (a local bike shop can pack it for you) and ship it to us. Keep your shipping receipt and take photos of the packed bike before you seal the box.\nWe inspect it and confirm the final offer. If it differs from the estimate, we tell you why before anything is decided.\nYour shipping cost is added on top of your trade-in value. This applies whether you put the value toward a bike or take it as payment.",
+    "revhead": "What customers say",
+    "t_n": "We usually reply within 2 hours on business days.",
+    "si_n": "Estimates are approximate and the final offer is made after inspection. If you decide not to accept the final offer, we are unable to cover return shipping, so the bike would be sent back at your cost.",
+    "so_h": "Having a bike shipped to you",
+    "so_l": "Ask us for extra photos or a video walk-around of the bike you like.\nWe confirm the shipping cost to your address before you commit.\nWe pack the bike carefully and send you tracking.",
+    "so_n": "Prefer to meet? Local meet-ups are always available by appointment at a public place.",
+    "b_h": "How a meet-up works",
+    "intro": "Low prices using our accurate database that updates daily.",
+    "ft": "Prices in Canadian dollars. Availability can change; please confirm before travelling.",
+    "b_l": "Message us or book a viewing for the bike you want.\nWe agree on a public place and time that suit you.\nLook it over, check the fit and test ride it.\nIf you are happy, we complete the sale in person. Every bike has been worked on by mechanics with 10+ years of experience.",
+    "s2n1t": "Fast replies",
+    "s1n1t": "Local first, shipping available",
+    "s2n0t": "Trade-ins welcome",
+    "s0n1t": "Honest condition notes",
+    "s1n0t": "Seeing is believing",
+    "headline": "Premium road and gravel bikes",
+    "s0n0t": "Serviced and ready to ride",
+    "s2n1x": "Send photos for an offer by email and text, usually within 2 hours on business days.",
+    "s1n1x": "Meet locally in person, or we ship in and out with costs made clear up front.",
+    "s2n0x": "We appraise your bike in person at a meet-up, or you can ship it from out of town.",
+    "s0n1x": "All notable wear and scratches are stated in each listing.",
+    "s1n0x": "Bikes are shown in safe public spaces and by appointment in Vancouver, BC. Test ride and chat with a mechanic.",
+    "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience. Brakes, shifters, derailleurs adjusted and ready to ride.",
+    "t_h": "Trading in?",
+    "sh_h": "Out of town? We ship in and out.",
+    "si_h": "Shipping in your trade-in"
+  },
+  "bikes": [
+    {
+      "size": "M/L (56cm)",
+      "photos": [],
+      "notes": "",
+      "groupset": "",
+      "trade": true,
+      "brand": "Giant",
+      "price": "",
+      "model": "Defy Advanced 1",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2021"
+    },
+    {
+      "size": "M (54cm)",
+      "photos": [],
+      "notes": "",
+      "groupset": "",
+      "trade": true,
+      "brand": "Giant",
+      "price": "",
+      "model": "Defy Advanced 2",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2020"
+    },
+    {
+      "size": "49",
+      "photos": [],
+      "notes": "",
+      "groupset": "SRAM Force",
+      "trade": true,
+      "brand": "Canyon",
+      "price": "",
+      "model": "Aeroad SLX",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2023"
+    },
+    {
+      "size": "52",
+      "photos": [],
+      "notes": "",
+      "groupset": "Shimano 105 Di2",
+      "trade": true,
+      "brand": "Giant",
+      "price": "",
+      "model": "TCR",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2023"
+    },
+    {
+      "size": "52",
+      "photos": [],
+      "notes": "",
+      "groupset": "SRAM Force",
+      "trade": true,
+      "brand": "Specialized",
+      "price": "",
+      "model": "Tarmac",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2023"
+    },
+    {
+      "size": "56",
+      "photos": [],
+      "notes": "",
+      "groupset": "",
+      "trade": true,
+      "brand": "Cannondale",
+      "price": "",
+      "model": "SuperSix",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2024"
+    },
+    {
+      "size": "54",
+      "photos": [],
+      "notes": "",
+      "groupset": "Shimano Dura-Ace",
+      "trade": true,
+      "brand": "Factor",
+      "price": "",
+      "model": "Ostro VAM",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2023"
+    },
+    {
+      "size": "54",
+      "photos": [],
+      "notes": "",
+      "groupset": "SRAM Force",
+      "trade": true,
+      "brand": "Cervélo",
+      "price": "",
+      "model": "S5",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "weight": "",
+      "type": "Road",
+      "condition": "",
+      "year": "2023"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Gurjit",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Fair cash offers and a seamless process for selling pre-owned bikes!"
+    },
+    {
+      "name": "Arthur",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Traded in my old road bike and upgraded smoothly with zero hassle."
+    },
+    {
+      "name": "Wilson",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "The absolute best shop for finding clean, fully inspected pre-owned builds."
+    },
+    {
+      "name": "Ivan",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Honest valuations on trade-ins with no lowball offers or hidden fees."
+    },
+    {
+      "name": "Damina",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Bought a pre-owned bike here and it felt like it came straight out of the box!"
+    },
+    {
+      "name": "Min",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Expert team that knows the true market value of high-end frames and components."
+    },
+    {
+      "name": "Chris",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Sold my gravel bike through them and received payment faster than expected."
+    },
+    {
+      "name": "Evan",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Smooth consignment process from initial listing to the final sale."
+    },
+    {
+      "name": "Kevin",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "They make buying a quality pre-owned bike feel totally risk-free."
+    },
+    {
+      "name": "Raymond",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Great selection of pre-owned inventory, all meticulously serviced before sale."
+    },
+    {
+      "name": "Carson",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Traded in two older bikes to build my dream setup—couldn’t be happier!"
+    },
+    {
+      "name": "Jim",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Super transparent valuation process when selling or trading in a bike."
+    },
+    {
+      "name": "Emily",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Found a rare, pristine frame set here at a very competitive price."
+    },
+    {
+      "name": "Timothy",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "They take the stress completely out of buying and selling used bicycles."
+    },
+    {
+      "name": "Michelle",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Excellent trade-in credit that made upgrading to a new model super affordable."
+    },
+    {
+      "name": "Stacey",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Honest, knowledgeable staff who guide you through every step of a trade."
+    },
+    {
+      "name": "Christine",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Sold my road bike on consignment and they got me top dollar for it."
+    },
+    {
+      "name": "Sarbjot",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Thorough mechanical inspection on every pre-owned bike they sell."
+    },
+    {
+      "name": "Peter",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "Quick, straightforward trade-in evaluation with immediate shop credit."
+    },
+    {
+      "name": "Tom",
+      "src": "Local customer",
+      "stars": 5,
+      "text": "The easiest transaction I’ve ever had buying a high-performance pre-owned bike."
+    },
+    {
+      "name": "Larissa",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "Highly fair pricing whether you are buying, selling, or trading up."
+    },
+    {
+      "name": "Bruce",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "Fantastic trade-in program that gives your old bike a second life."
+    },
+    {
+      "name": "Edward",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "They expertly parted out my custom build and sold it for great value."
+    },
+    {
+      "name": "Abhinav",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "Reliable shop to source hard-to-find pre-owned frames and wheelsets."
+    },
+    {
+      "name": "Eugene",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "Buying pre-owned from them comes with total peace of mind and great support."
+    },
+    {
+      "name": "Nicolas",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "Professional service from start to finish on consignment sales."
+    },
+    {
+      "name": "Camille",
+      "src": "Shipped from out of town",
+      "stars": 5,
+      "text": "My go-to shop whenever I want to swap, trade, or upgrade my ride!"
+    },
+    {
+      "src": "Local customer",
+      "stars": 5,
+      "name": "Frederick",
+      "text": "I am in love with the Cervelo S5, traded in my older road bike at reasonable price."
+    }
+  ]
+}
