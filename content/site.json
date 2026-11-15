@@ -1,7 +1,9 @@
 {
   "shop": {
     "heroes": [
-      "/images/uploads/factor-ostro-vam-long-term-review-01.avif"
+      "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/cervelo_s5_bayonet.jpg",
+      "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/a2c33e48-c34a-4636-9dff-d6d5b8ae6c17.avif",
+      "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/factor-ostro-vam-long-term-review-01.avif"
     ],
     "logo": "/images/uploads/bv2.png",
     "name": "Bike Vault",
