@@ -62,7 +62,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Fair",
       "year": "2021"
     },
     {
@@ -81,7 +81,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Very good",
       "year": "2022"
     },
     {
@@ -100,7 +100,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Very good",
       "year": "2023"
     },
     {
@@ -138,7 +138,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Very good",
       "year": "2023"
     },
     {
@@ -147,7 +147,7 @@
         "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20240811_010949.jpg"
       ],
       "notes": "",
-      "groupset": "Shimano Ultegra Di2 12sp",
+      "groupset": "Shimano Ultegra Di2 R8170 12sp",
       "trade": true,
       "brand": "Cannondale",
       "price": "6500",
@@ -157,7 +157,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Excellent",
       "year": "2024"
     },
     {
@@ -176,7 +176,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Like new",
       "year": "2023"
     },
     {
@@ -188,15 +188,51 @@
       "groupset": "SRAM Red Quarq + Force",
       "trade": true,
       "brand": "Cervélo",
-      "price": "9500",
+      "price": "9750",
       "model": "S5",
       "frame": "Carbon",
       "status": "Available",
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Like new",
       "year": "2023"
+    },
+    {
+      "size": "54",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/look_gemi.png"
+      ],
+      "notes": "Approx. 2000km\nDT Swiss wheel upgrade over original Mavic\nLook Carbon Aero Handlebars",
+      "groupset": "Shimano Ultegra Di2 R8170 12sp",
+      "trade": true,
+      "brand": "Look",
+      "price": "6850",
+      "model": "795 Blade RS",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "DT Swiss ERC Carbon",
+      "type": "Road",
+      "condition": "Excellent",
+      "year": "2022"
+    },
+    {
+      "size": "54",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/483067791_1163691968874973_7190287470423764815_n.jpg"
+      ],
+      "notes": "Original groupset\n380x100 handlebar\nZero Offset seatpost",
+      "groupset": "Shimano Ultegra Di2 R8170 12sp",
+      "trade": true,
+      "brand": "Factor",
+      "price": "9500",
+      "model": "Ostro Vam V2.0",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "",
+      "type": "Road",
+      "condition": "Like new",
+      "year": "2025"
     }
   ],
   "reviews": [
