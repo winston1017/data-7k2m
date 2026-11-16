@@ -103,32 +103,36 @@
     },
     {
       "size": "52",
-      "photos": [],
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/6aadc589-a48f-42b2-94c5-ce952169fd81-1-.webp"
+      ],
       "notes": "",
-      "groupset": "Shimano 105 Di2",
+      "groupset": "Shimano Ultegra Mechanical Disc",
       "trade": true,
       "brand": "Giant",
-      "price": "",
-      "model": "TCR",
+      "price": "3250",
+      "model": "TCR Advanced Disc 1+ Pro",
       "frame": "Carbon",
       "status": "Available",
-      "wheels": "",
+      "wheels": " Giant SLR 2",
       "weight": "",
       "type": "Road",
       "condition": "",
-      "year": "2023"
+      "year": "2022"
     },
     {
-      "size": "52",
-      "photos": [],
+      "size": "54",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/fa8d370a-9c51-476f-9b68-0a270e245cb8.webp"
+      ],
       "notes": "",
       "groupset": "SRAM Force",
       "trade": true,
       "brand": "Specialized",
-      "price": "4500",
-      "model": "Tarmac",
+      "price": "6500",
+      "model": "Tarmac SL7 Pro",
       "frame": "Carbon",
-      "status": "Sold",
+      "status": "Available",
       "wheels": "",
       "weight": "",
       "type": "Road",
