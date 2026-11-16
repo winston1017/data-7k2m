@@ -40,7 +40,7 @@
     "s2n0x": "We appraise your bike in person at a meet-up, or you can ship it from out of town.",
     "s0n1x": "All notable wear and scratches are stated in each listing.",
     "s1n0x": "Bikes are shown in safe public places by an experienced mechanic, conveniently in Vancouver, BC.",
-    "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience. Brakes, shifters, derailleurs and tires all adjusted and ready to ride!",
+    "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience.",
     "t_h": "Trading in?",
     "sh_h": "Out of town? We ship in and out.",
     "si_h": "Shipping in your trade-in"
@@ -96,7 +96,7 @@
       "price": "7500",
       "model": "Aeroad",
       "frame": "Carbon",
-      "status": "Available",
+      "status": "Sold",
       "wheels": "",
       "weight": "",
       "type": "Road",
@@ -119,7 +119,7 @@
       "wheels": " Giant SLR 2 Carbon",
       "weight": "",
       "type": "Road",
-      "condition": "",
+      "condition": "Very good",
       "year": "2022"
     },
     {
@@ -150,15 +150,15 @@
       "groupset": "Shimano Ultegra Di2 R8170 12sp",
       "trade": true,
       "brand": "Cannondale",
-      "price": "6500",
+      "price": "6600",
       "model": "SuperSix",
       "frame": "Carbon",
-      "status": "Available",
+      "status": "Reserved",
       "wheels": "",
       "weight": "",
       "type": "Road",
       "condition": "Excellent",
-      "year": "2024"
+      "year": "2023"
     },
     {
       "size": "52",
