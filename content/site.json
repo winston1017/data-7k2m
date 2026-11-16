@@ -39,8 +39,8 @@
     "s1n1x": "Meet locally in person, or we ship in and out with costs made clear up front.",
     "s2n0x": "We appraise your bike in person at a meet-up, or you can ship it from out of town.",
     "s0n1x": "All notable wear and scratches are stated in each listing.",
-    "s1n0x": "Bikes are shown in safe public spaces by an experience mechanic, conveniently in Vancouver, BC.",
-    "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience. Brakes, shifters, derailleurs adjusted and ready to ride.",
+    "s1n0x": "Bikes are shown in safe public places by an experienced mechanic, conveniently in Vancouver, BC.",
+    "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience. Brakes, shifters, derailleurs and tires all adjusted and ready to ride!",
     "t_h": "Trading in?",
     "sh_h": "Out of town? We ship in and out.",
     "si_h": "Shipping in your trade-in"
@@ -53,10 +53,10 @@
       "groupset": "",
       "trade": true,
       "brand": "Giant",
-      "price": "",
+      "price": "3200",
       "model": "Defy Advanced 1",
       "frame": "Carbon",
-      "status": "Available",
+      "status": "Sold",
       "wheels": "",
       "weight": "",
       "type": "Road",
@@ -65,12 +65,14 @@
     },
     {
       "size": "M (54cm)",
-      "photos": [],
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/giant_defy_advanced_2_9_crop-scaled.webp"
+      ],
       "notes": "",
       "groupset": "",
       "trade": true,
       "brand": "Giant",
-      "price": "",
+      "price": "2900",
       "model": "Defy Advanced 2",
       "frame": "Carbon",
       "status": "Available",
@@ -78,17 +80,19 @@
       "weight": "",
       "type": "Road",
       "condition": "",
-      "year": "2020"
+      "year": "2022"
     },
     {
-      "size": "49",
-      "photos": [],
+      "size": "56",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20240809_102600.jpg"
+      ],
       "notes": "",
-      "groupset": "SRAM Force",
+      "groupset": "SRAM Red Quarq + Force",
       "trade": true,
       "brand": "Canyon",
-      "price": "",
-      "model": "Aeroad SLX",
+      "price": "7500",
+      "model": "Aeroad",
       "frame": "Carbon",
       "status": "Available",
       "wheels": "",
@@ -121,10 +125,10 @@
       "groupset": "SRAM Force",
       "trade": true,
       "brand": "Specialized",
-      "price": "",
+      "price": "4500",
       "model": "Tarmac",
       "frame": "Carbon",
-      "status": "Available",
+      "status": "Sold",
       "wheels": "",
       "weight": "",
       "type": "Road",
@@ -133,12 +137,14 @@
     },
     {
       "size": "56",
-      "photos": [],
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20240811_010949.jpg"
+      ],
       "notes": "",
-      "groupset": "",
+      "groupset": "Shimano Ultegra Di2 12sp",
       "trade": true,
       "brand": "Cannondale",
-      "price": "",
+      "price": "6500",
       "model": "SuperSix",
       "frame": "Carbon",
       "status": "Available",
@@ -149,13 +155,15 @@
       "year": "2024"
     },
     {
-      "size": "54",
-      "photos": [],
+      "size": "52",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/2023-ostro-vam-w-2024-sram-red-v0-8mb90abjybgd1.webp"
+      ],
       "notes": "",
-      "groupset": "Shimano Dura-Ace",
+      "groupset": "SRAM RED AXS eTAP 12",
       "trade": true,
       "brand": "Factor",
-      "price": "",
+      "price": "8500",
       "model": "Ostro VAM",
       "frame": "Carbon",
       "status": "Available",
@@ -167,9 +175,11 @@
     },
     {
       "size": "54",
-      "photos": [],
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20260330_182611.jpg"
+      ],
       "notes": "",
-      "groupset": "SRAM Force",
+      "groupset": "SRAM Red Quarq + Force",
       "trade": true,
       "brand": "Cervélo",
       "price": "",
