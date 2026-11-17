@@ -25,7 +25,7 @@
     "visit_note": "Meetings by appointment via our simple form.",
     "so_l": "*We're focused on keeping bike prices as low as possible. | By operating without the overhead of a traditional retail storefront, we can pass those savings on to our customers.\n\n*Instead, our inventory is stored across multiple secure locations, helping us keep operating costs and risks low while offering better value to both buyers and sellers.",
     "so_n": "No expensive storefront. Less overhead. Better prices.",
-    "b_h": "How a meet-up works",
+    "b_h": "How a Meet-up Works",
     "intro": "Fair, competitive pricing backed by a market database updated daily.",
     "ft": "Prices in Canadian dollars. Availability can change; please confirm before travelling.",
     "b_l": "Message us or book a viewing with our mechanic.\nWe agree on a public place and time that suit you.\nLook it over, check the fit and test ride it.\nIf you are happy, we complete the sale in person.",
@@ -42,9 +42,9 @@
     "s0n1x": "",
     "s1n0x": "Bikes are presented by an experienced mechanic in Vancouver BC.",
     "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience.",
-    "t_h": "Trading in?",
-    "sh_h": "Out of town? We ship in and out.",
-    "si_h": "Shipping in your trade-in"
+    "t_h": "Local Trade-in Process",
+    "sh_h": "Local & Out-of-Town Trade-ins",
+    "si_h": "Out-of-Town Trade-in Process"
   },
   "bikes": [
     {
