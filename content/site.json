@@ -234,6 +234,23 @@
       "type": "Road",
       "condition": "Like new",
       "year": "2025"
+    },
+    {
+      "size": "54",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20230720_084011.webp"
+      ],
+      "groupset": "Ultegra Di2 11sp w/ Si Cranks",
+      "trade": true,
+      "brand": "Cannondale",
+      "origPrice": "9500",
+      "price": "8200",
+      "model": "Systemsix Rapha",
+      "frame": "Carbon",
+      "status": "Available",
+      "type": "Road",
+      "condition": "Like new",
+      "year": "2022"
     }
   ],
   "reviews": [
