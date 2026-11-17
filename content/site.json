@@ -5,12 +5,12 @@
       "images/optimized/a2c33e48-c34a-4636-9dff-d6d5b8ae6c17.webp",
       "images/optimized/factor-ostro-vam-long-term-review-01.webp"
     ],
-    "logo": "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117070441-9hvy9.webp",
+    "logo": "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117071931-aa4zf.webp",
     "name": "Bike Vault",
     "area": "Vancouver, BC",
     "phone": "Coming soon",
     "tagline": "Premium road and gravel bikes, professionally inspected, serviced, and ready to ride.",
-    "hours": "Meetings by appointment. Message us for available times.",
+    "hours": "Meetings by appointment. Message us with our simple forms for available times.",
     "address": "Safe public meeting spots around Vancouver, BC, agreed when you book.",
     "formEndpoint": "",
     "email": "trades@bikevault.ca"
@@ -49,7 +49,7 @@
     {
       "size": "M/L (56cm)",
       "photos": [
-        "images/optimized/l0ome2nvjcf81.webp"
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072054-t86sq.webp"
       ],
       "notes": "",
       "groupset": "",
@@ -69,7 +69,7 @@
     {
       "size": "M (54cm)",
       "photos": [
-        "images/optimized/giant_defy_advanced_2_9_crop-scaled.webp"
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072122-g6zun.webp"
       ],
       "notes": "",
       "groupset": "",
@@ -164,7 +164,7 @@
     {
       "size": "52",
       "photos": [
-        "images/optimized/2023-ostro-vam-w-2024-sram-red-v0-8mb90abjybgd1.webp"
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072159-zgazl.webp"
       ],
       "notes": "",
       "groupset": "SRAM RED AXS eTAP 12",
@@ -220,7 +220,7 @@
     {
       "size": "54",
       "photos": [
-        "images/optimized/483067791_1163691968874973_7190287470423764815_n.webp"
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072219-67y93.webp"
       ],
       "notes": "Original groupset\n380x100 handlebar\nZero Offset seatpost",
       "groupset": "Shimano Ultegra Di2 R8170 12sp",
