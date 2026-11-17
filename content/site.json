@@ -1,11 +1,11 @@
 {
   "shop": {
     "heroes": [
-      "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/cervelo_s5_bayonet.jpg",
-      "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/a2c33e48-c34a-4636-9dff-d6d5b8ae6c17.avif",
-      "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/factor-ostro-vam-long-term-review-01.avif"
+      "images/optimized/cervelo_s5_bayonet.webp",
+      "images/optimized/a2c33e48-c34a-4636-9dff-d6d5b8ae6c17.webp",
+      "images/optimized/factor-ostro-vam-long-term-review-01.webp"
     ],
-    "logo": "/images/uploads/bv2.png",
+    "logo": "/images/optimized/bv2.webp",
     "name": "Bike Vault",
     "area": "Vancouver, BC",
     "phone": "Coming soon",
@@ -49,7 +49,7 @@
     {
       "size": "M/L (56cm)",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/l0ome2nvjcf81.jpg"
+        "images/optimized/l0ome2nvjcf81.webp"
       ],
       "notes": "",
       "groupset": "",
@@ -69,7 +69,7 @@
     {
       "size": "M (54cm)",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/giant_defy_advanced_2_9_crop-scaled.webp"
+        "images/optimized/giant_defy_advanced_2_9_crop-scaled.webp"
       ],
       "notes": "",
       "groupset": "",
@@ -88,7 +88,7 @@
     {
       "size": "56",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/cccc.png"
+        "images/optimized/cccc.webp"
       ],
       "notes": "",
       "groupset": "SRAM Force D1 12sp",
@@ -107,7 +107,7 @@
     {
       "size": "52",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/6aadc589-a48f-42b2-94c5-ce952169fd81-1-.webp"
+        "images/optimized/6aadc589-a48f-42b2-94c5-ce952169fd81-1-.webp"
       ],
       "notes": "",
       "groupset": "Shimano Ultegra Mechanical Disc",
@@ -126,7 +126,7 @@
     {
       "size": "54",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/fa8d370a-9c51-476f-9b68-0a270e245cb8.webp"
+        "images/optimized/fa8d370a-9c51-476f-9b68-0a270e245cb8.webp"
       ],
       "notes": "",
       "groupset": "SRAM Force 12",
@@ -145,7 +145,7 @@
     {
       "size": "56",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20240811_010949.jpg"
+        "images/optimized/20240811_010949.webp"
       ],
       "notes": "",
       "groupset": "Shimano Ultegra Di2 R8170 12sp",
@@ -164,7 +164,7 @@
     {
       "size": "52",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/2023-ostro-vam-w-2024-sram-red-v0-8mb90abjybgd1.webp"
+        "images/optimized/2023-ostro-vam-w-2024-sram-red-v0-8mb90abjybgd1.webp"
       ],
       "notes": "",
       "groupset": "SRAM RED AXS eTAP 12",
@@ -183,7 +183,7 @@
     {
       "size": "54",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/20260330_182611.jpg"
+        "images/optimized/20260330_182611.webp"
       ],
       "notes": "",
       "groupset": "SRAM Red Quarq + Force",
@@ -202,7 +202,7 @@
     {
       "size": "54",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/look_gemi.png"
+        "images/optimized/look_gemi.webp"
       ],
       "notes": "Approx. 2000km\nDT Swiss wheel upgrade over original Mavic\nLook Carbon Aero Handlebars",
       "groupset": "Shimano Ultegra Di2 R8170 12sp",
@@ -220,7 +220,7 @@
     {
       "size": "54",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/483067791_1163691968874973_7190287470423764815_n.jpg"
+        "images/optimized/483067791_1163691968874973_7190287470423764815_n.webp"
       ],
       "notes": "Original groupset\n380x100 handlebar\nZero Offset seatpost",
       "groupset": "Shimano Ultegra Di2 R8170 12sp",
@@ -238,7 +238,7 @@
     {
       "size": "54",
       "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117051102-1qlro.webp"
+        "images/optimized/bikevault-20261117051102-1qlro.webp"
       ],
       "groupset": "Ultegra Di2 11sp w/ Si Cranks",
       "trade": true,
