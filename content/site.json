@@ -84,7 +84,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "Very good",
+      "condition": "Good",
       "year": "2022"
     },
     {
@@ -104,7 +104,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "Very good",
+      "condition": "Like New",
       "year": "2023"
     },
     {
@@ -124,7 +124,7 @@
       "wheels": " Giant SLR 2 Carbon",
       "weight": "",
       "type": "Road",
-      "condition": "Very good",
+      "condition": "Good",
       "year": "2022"
     },
     {
@@ -144,7 +144,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "Very good",
+      "condition": "Like New",
       "year": "2023"
     },
     {
@@ -164,7 +164,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "Excellent",
+      "condition": "Like New",
       "year": "2023"
     },
     {
@@ -184,7 +184,7 @@
       "wheels": "",
       "weight": "",
       "type": "Road",
-      "condition": "Like new",
+      "condition": "Like New",
       "year": "2023"
     },
     {
@@ -223,7 +223,7 @@
       "status": "Available",
       "wheels": "DT Swiss ERC Carbon",
       "type": "Road",
-      "condition": "Excellent",
+      "condition": "Like New",
       "year": "2022"
     },
     {
@@ -242,7 +242,7 @@
       "status": "Available",
       "wheels": "Black Inc",
       "type": "Road",
-      "condition": "Like new",
+      "condition": "Like New",
       "year": "2025"
     },
     {
@@ -259,7 +259,7 @@
       "frame": "Carbon",
       "status": "Available",
       "type": "Road",
-      "condition": "Like new",
+      "condition": "Like New",
       "year": "2022"
     }
   ],
