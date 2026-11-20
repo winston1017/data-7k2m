@@ -14,7 +14,7 @@
     "address": "Safe public meeting spots around Vancouver, BC.",
     "formEndpoint": "",
     "palette": "Carbon / Electric Lime",
-    "email": "trades@bikevault.ca"
+    "email": "service@bikevault.ca"
   },
   "txt": {
     "t_l": "1. Form | is filled out by the customer with photos for value estimate.\n2. Meet | at a public place by appointment with a mechanic.\n3. Offer | is confirmed on the spot as value toward any bike here, or take it as payment. No obligation.\n4. Verification | for each bike’s serial number against multiple databases.",
@@ -29,6 +29,7 @@
     "b_h": "How a Meet-up Works",
     "intro": "Fair, competitive pricing backed by daily market data.",
     "ft": "Prices in Canadian dollars. Availability can change; please confirm before travelling.",
+    "s0n0m": "",
     "b_l": "Message us to book a viewing with a mechanic.\nWe agree on a public place and time that suit you.\nInspect, ask questions, test fit and/or ride it.\nIf you are happy, we complete the sale in person.",
     "s2n1t": "",
     "s1n1t": "",
@@ -39,10 +40,10 @@
     "s0n0t": "Serviced and ready to ride",
     "s2n1x": "",
     "s1n1x": "",
-    "s2n0x": "We appraise your bike in person, or you can ship it from out of town.",
+    "s2n0x": "In-person bike appraisals, or you can ship it in.",
     "s0n1x": "",
-    "s1n0x": "Bikes are presented by an experienced mechanic in Vancouver BC.",
-    "s0n0x": "All bikes are inspected and serviced by mechanics with 10+ years of experience.",
+    "s1n0x": "Bikes are presented by an experienced mechanic.",
+    "s0n0x": "All bikes are inspected and serviced.",
     "t_h": "Local Trade-in Process",
     "sh_h": "Local & Out-of-Town Trade-ins",
     "si_h": "Out-of-Town Trade-in Process"
