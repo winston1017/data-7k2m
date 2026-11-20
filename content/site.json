@@ -170,6 +170,25 @@
       "year": "2023"
     },
     {
+      "size": "54",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072219-67y93.webp"
+      ],
+      "notes": "380x100 handlebar\nZero Offset seatpost",
+      "groupset": "Shimano Ultegra Di2 R8170 12sp",
+      "trade": true,
+      "brand": "Factor",
+      "origPrice": "12000",
+      "price": "9500",
+      "model": "Ostro Vam V2.0",
+      "frame": "Carbon",
+      "status": "Available",
+      "wheels": "Black Inc",
+      "type": "Road",
+      "condition": "Like New",
+      "year": "2025"
+    },
+    {
       "size": "52",
       "photos": [
         "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072159-zgazl.webp"
@@ -210,6 +229,23 @@
       "year": "2023"
     },
     {
+      "size": "54cm",
+      "photos": [
+        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261120185543-4oxbl.webp"
+      ],
+      "groupset": "SRAM FORCE D2",
+      "trade": true,
+      "brand": "Cervelo",
+      "origPrice": "12000",
+      "price": "9500",
+      "model": "S5",
+      "frame": "Carbon",
+      "status": "Available",
+      "type": "Road",
+      "condition": "Like New",
+      "year": "2024"
+    },
+    {
       "size": "54",
       "photos": [
         "images/optimized/look_gemi.webp"
@@ -227,25 +263,6 @@
       "type": "Road",
       "condition": "Like New",
       "year": "2022"
-    },
-    {
-      "size": "54",
-      "photos": [
-        "https://raw.githubusercontent.com/winston1017/data-7k2m/main/images/uploads/bikevault-20261117072219-67y93.webp"
-      ],
-      "notes": "380x100 handlebar\nZero Offset seatpost",
-      "groupset": "Shimano Ultegra Di2 R8170 12sp",
-      "trade": true,
-      "brand": "Factor",
-      "origPrice": "12000",
-      "price": "9500",
-      "model": "Ostro Vam V2.0",
-      "frame": "Carbon",
-      "status": "Available",
-      "wheels": "Black Inc",
-      "type": "Road",
-      "condition": "Like New",
-      "year": "2025"
     },
     {
       "size": "54",
